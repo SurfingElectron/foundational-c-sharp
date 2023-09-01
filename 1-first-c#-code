@@ -1,0 +1,14 @@
+// Write Your First Code Using C#
+
+// TASK 1
+Console.WriteLine("Hello World!");
+
+// TASK 2
+Console.Write("Congratulations!");
+Console.Write(" ");
+Console.Write("You wrote your first lines of code.");
+
+// CHALLENGE
+Console.WriteLine("This is the first line.");
+Console.Write("This is ");
+Console.Write("the second line.");

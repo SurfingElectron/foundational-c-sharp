@@ -1,0 +1,46 @@
+// Store and retrieve data using literal and variable values
+
+// EXERCISE 1: PRINT LITERAL VALUES
+// Character literal 
+// (note - surrounded by single quotation marks, unlike string literal!)
+Console.WriteLine('b');
+
+// Integer literal
+Console.WriteLine(123);
+
+// Floating-point literals (see readme for precision)
+Console.WriteLine(0.25f);
+Console.WriteLine(2.625);
+Console.WriteLine(12.39816m);
+
+// Boolean literal
+Console.WriteLine(true);
+Console.WriteLine(false);
+
+// EXERCISE 2: SETTING AND GETTING VALUES FROM VARIABLES
+string firstName = "Bob";
+
+Console.WriteLine(firstName);
+
+firstName = "Liem";
+Console.WriteLine(firstName);
+
+firstName = "Isabella";
+Console.WriteLine(firstName);
+
+firstName = "Yasmin";
+Console.WriteLine(firstName);
+
+
+// CHALLENGE: DISPLAY LITERAL AND VARIABLE VALUES
+string firstName = "Bob";
+int emailCount = 3;
+float localTemp = 34.4f;
+
+Console.Write("Hello, ");
+Console.Write(firstName);
+Console.Write("! You have ");
+Console.Write(emailCount);
+Console.Write(" in your inbox. The temperature is ");
+Console.Write(localTemp);
+Console.Write(" celsius.");
