@@ -27,6 +27,11 @@ My goal was to build an application that takes the assignment scores for student
 
 To accomplish this, I declared and assigned values to variables of different data types, performed numeric operations, and used type casting to achieve accurate results. I also used Console.WriteLine() and character escape sequences to format the output. By breaking the problem down, I were able to build a solution using the skills I learned in the previous modules. 
 
+### Guided project - Calculate final GPA 
+My goal was to build an application that takes course information for a student, calculates the overall GPA, and displays the results.
+
+To accomplish this, I declared and assigned values to variables of different data types, performed numeric operations, and used type casting to achieve accurate results. I also used the WriteLine() method and character escape sequences to format the output.
+
 ## Notes
 ### Floating-point, double, and decimal data type precision
 Float Type  |  Precision     |    Suffix
