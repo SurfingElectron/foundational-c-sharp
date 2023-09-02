@@ -23,7 +23,9 @@ My goal was to perform basic operations on string and numeric data. As a coding 
 I used various operators to perform basic string and mathematical operations. I learned how some symbols are reused (overloaded) as different operators, depending on the context. I learned how the data types of the operands influence the meaning of the operators. Finally, I learned how to change the data type of a value using the cast operator.
 
 ### Guided project - Calculate and print student grades
+My goal was to build an application that takes the assignment scores for students in a class, calculates their grade, and displays the results.
 
+To accomplish this, I declared and assigned values to variables of different data types, performed numeric operations, and used type casting to achieve accurate results. I also used Console.WriteLine() and character escape sequences to format the output. By breaking the problem down, I were able to build a solution using the skills I learned in the previous modules. 
 
 ## Notes
 ### Floating-point, double, and decimal data type precision
