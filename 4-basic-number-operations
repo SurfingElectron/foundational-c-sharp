@@ -1,0 +1,88 @@
+// PERFORM BASIC OPERATIONS ON NUMBERS IN C#
+
+// ADDITION AND CONCATENATION
+int firstNum = 12;
+int secondNum = 7;
+Console.WriteLine(firstNum + secondNum);
+
+string firstName = "Bob";
+int widgetsSold = 7;
+Console.WriteLine(firstName + " sold " + widgetsSold + " widgets.");
+
+string firstName = "Bob";
+int widgetsSold = 7;
+Console.WriteLine(firstName + " sold " + widgetsSold + 7 + " widgets.");
+// Output here is "Bob sold 77 widgets." as the compiler converts the numbers to strings
+// and concatenates them
+
+string firstName = "Bob";
+int widgetsSold = 7;
+Console.WriteLine(firstName + " sold " + (widgetsSold + 7) + " widgets.");
+// Output here is "Bob sold 14 widgets." because the compiler uses the parentheses as an order of operations
+// and performs the addition before the concatenation
+
+// EXERCISE: PERFORM MATH OPERATIONS
+int sum = 7 + 5;
+int difference = 7 - 5;
+int product = 7 * 5;
+int quotient = 7 / 5;
+
+Console.WriteLine("Sum: " + sum);
+Console.WriteLine("Difference: " + difference);
+Console.WriteLine("Product: " + product);
+Console.WriteLine("Quotient: " + quotient);
+
+decimal decimalQuotient = 7.0m / 5;
+Console.WriteLine($"Decimal quotient: {decimalQuotient}");
+
+// Casting an int to a decimal
+int first = 7;
+int second = 5;
+decimal quotient = (decimal)first / (decimal)second;
+Console.WriteLine(quotient);
+
+// Modulus
+Console.WriteLine($"Modulus of 200 / 5 : {200 % 5}");
+Console.WriteLine($"Modulus of 7 / 5 : {7 % 5}");
+
+// Order of operations
+int value1 = 3 + 4 * 5;
+int value2 = (3 + 4) * 5;
+Console.WriteLine(value1);
+Console.WriteLine(value2);
+
+// EXERCISE: INCREMENT AND DECREMENT VALUES
+int value = 1;
+
+value = value + 1;
+Console.WriteLine("First increment: " + value);
+
+value += 1;
+Console.WriteLine("Second increment: " + value);
+
+value ++ ;
+Console.WriteLine("Third increment: " + value);
+
+value = value - 1;
+Console.WriteLine("First decrement: " + value);
+
+value -= 1;
+Console.WriteLine("Second decrement: " + value);
+
+value --;
+Console.WriteLine("Third decrement: " + value);
+
+
+// The position of the increment / decrement operations matters
+int value = 1;
+value++;
+Console.WriteLine("First: " + value);
+Console.WriteLine("Second: " + value++);
+Console.WriteLine("Third: " + value);
+Console.WriteLine("Fourth: " + ++value);
+
+
+// CHALLENGE: CALCULATE CELSIUS GIVEN THE CURRENT TEMPERATURE IN FAHRENHEIT
+int fahrenheit = 94;
+decimal celsius = (fahrenheit - 32m) * (5m / 9m);
+Console.WriteLine($"{fahrenheit}F is {celsius}C");

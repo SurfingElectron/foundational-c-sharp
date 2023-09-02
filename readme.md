@@ -17,6 +17,12 @@ Using character escape sequences, I added special characters in my literal strin
 
 Without the ability to format my output, I would be severely restricted in what kinds of information I could present to the user. However, now I can provide my users with sophisticated instructions and feedback with a wide variety of formatting, symbols, and languages.
 
+### Perform basic operations on numbers in C#
+My goal was to perform basic operations on string and numeric data. As a coding challenge, I converted a value from one unit of measure (Fahrenheit) to another (Celsius) and displayed the result in a formatted message.
+
+I used various operators to perform basic string and mathematical operations. I learned how some symbols are reused (overloaded) as different operators, depending on the context. I learned how the data types of the operands influence the meaning of the operators. Finally, I learned how to change the data type of a value using the cast operator.
+
+
 ## Notes
 ### Floating-point, double, and decimal data type precision
 Float Type  |  Precision     |    Suffix
