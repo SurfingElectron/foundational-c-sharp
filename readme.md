@@ -1,5 +1,5 @@
 # Foundational C# with Microsoft
-...
+This is a repo to store my progress through Microsoft's foundational C# certification.
 
 ## Topics
 ### Write your fmyst C# code
@@ -21,6 +21,8 @@ Without the ability to format my output, I would be severely restricted in what 
 My goal was to perform basic operations on string and numeric data. As a coding challenge, I converted a value from one unit of measure (Fahrenheit) to another (Celsius) and displayed the result in a formatted message.
 
 I used various operators to perform basic string and mathematical operations. I learned how some symbols are reused (overloaded) as different operators, depending on the context. I learned how the data types of the operands influence the meaning of the operators. Finally, I learned how to change the data type of a value using the cast operator.
+
+### Guided project - Calculate and print student grades
 
 
 ## Notes
@@ -46,3 +48,6 @@ would output
 ```
 c:\source\repos
 ```
+
+## Resources
+- https://www.freecodecamp.org/learn/foundational-c-sharp-with-microsoft/
