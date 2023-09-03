@@ -1,36 +1,19 @@
-# Foundational C# with Microsoft
+# Get started with C#
 This is a repo to store my progress through Microsoft's foundational C# certification.
 
 ## Topics
-### Write your fmyst C# code
-The goal was to write code which displayed simple messages to an output console while familiarizing myself with the syntax. I wrote my first lines of code using basic C# syntax. I learned two techniques for displaying literal-string data to the console. I also learned what to look for when I come across an error in my code. And lastly, I identified C# syntax elements like classes and methods, and the purpose of several special symbols that are known as operators. 
+### Part 1: Write your first code using C#
+- Get started by writing code examples to learn the basics of the C# syntax. 
+- Use data in your applications by creating literal values and variable values of different data types. 
+- Combine literal and variable text data that contain special characters, formatting, and Unicode into meaningful messages for the end user. 
+- Learn the operators and techniques used to perform basic math operations on numeric data.
+- Projects: Learn to develop an application that will calculate and display results based on given data. Gain experience developing an application that will calculate and display results based on given data.
 
-### Store and retrieve data using literal and variable values in C#
-My goal was to display a formatted message using a combination of literal and variable values.
-
-Using basic C# syntax, I created literal values of several different data types. I declared variables, and also set and retrieved values from those variables. I also initialized variables, and learned how to use the var keyword to implicitly type a variable by inferring the type from the initialization.
-
-### Perform basic string formatting in C#
-My goal was to write code that formats strings with special characters, such as double quotes, new lines, tabs, and other white space, as well as unicode characters. I also combined strings using two different techniques.
-
-Using character escape sequences, I added special characters in my literal strings by either using special escaping sequences or using verbatim strings. I added Unicode characters from other language sets like Japanese Kanji and Russian Cyrillic in my literal strings. I used simple string concatenation with the + symbol, and upgraded to string interpolation for combining values into a string template.
-
-Without the ability to format my output, I would be severely restricted in what kinds of information I could present to the user. However, now I can provide my users with sophisticated instructions and feedback with a wide variety of formatting, symbols, and languages.
-
-### Perform basic operations on numbers in C#
-My goal was to perform basic operations on string and numeric data. As a coding challenge, I converted a value from one unit of measure (Fahrenheit) to another (Celsius) and displayed the result in a formatted message.
-
-I used various operators to perform basic string and mathematical operations. I learned how some symbols are reused (overloaded) as different operators, depending on the context. I learned how the data types of the operands influence the meaning of the operators. Finally, I learned how to change the data type of a value using the cast operator.
-
-### Guided project - Calculate and print student grades
-My goal was to build an application that takes the assignment scores for students in a class, calculates their grade, and displays the results.
-
-To accomplish this, I declared and assigned values to variables of different data types, performed numeric operations, and used type casting to achieve accurate results. I also used Console.WriteLine() and character escape sequences to format the output. By breaking the problem down, I were able to build a solution using the skills I learned in the previous modules. 
-
-### Guided project - Calculate final GPA 
-My goal was to build an application that takes course information for a student, calculates the overall GPA, and displays the results.
-
-To accomplish this, I declared and assigned values to variables of different data types, performed numeric operations, and used type casting to achieve accurate results. I also used the WriteLine() method and character escape sequences to format the output.
+### Part 2: Create and run simple C# console applications
+### Part 3: Add logic to C# console applications
+### Part 4: Work with variable data in C# console applications
+### Part 5: Create methods in C# console applications
+### Part 6: Debug C# console applications
 
 ## Notes
 ### Floating-point, double, and decimal data type precision
