@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Coding\C#\microsoft-foundation-certification\2-simple-console-applications\4-store-and-iterate-through-arrays\obj\Debug\net7.0\4-store-and-iterate-through-arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Coding\C#\microsoft-foundation-certification\2-simple-console-applications\4-store-and-iterate-through-arrays\obj\Debug\net7.0\4-store-and-iterate-through-arrays.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Coding\C#\microsoft-foundation-certification\2-simple-console-applications\4-store-and-iterate-through-arrays\obj\Debug\net7.0\4-store-and-iterate-through-arrays.AssemblyInfo.cs
+C:\Users\User\Desktop\Coding\C#\microsoft-foundation-certification\2-simple-console-applications\4-store-and-iterate-through-arrays\obj\Debug\net7.0\4-store-and-iterate-through-arrays.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Coding\C#\microsoft-foundation-certification\2-simple-console-applications\4-store-and-iterate-through-arrays\bin\Debug\net7.0\4-store-and-iterate-through-arrays.exe
+C:\Users\User\Desktop\Coding\C#\microsoft-foundation-certification\2-simple-console-applications\4-store-and-iterate-through-arrays\bin\Debug\net7.0\4-store-and-iterate-through-arrays.deps.json
+C:\Users\User\Desktop\Coding\C#\microsoft-foundation-certification\2-simple-console-applications\4-store-and-iterate-through-arrays\bin\Debug\net7.0\4-store-and-iterate-through-arrays.runtimeconfig.json
+C:\Users\User\Desktop\Coding\C#\microsoft-foundation-certification\2-simple-console-applications\4-store-and-iterate-through-arrays\bin\Debug\net7.0\4-store-and-iterate-through-arrays.dll
+C:\Users\User\Desktop\Coding\C#\microsoft-foundation-certification\2-simple-console-applications\4-store-and-iterate-through-arrays\bin\Debug\net7.0\4-store-and-iterate-through-arrays.pdb
+C:\Users\User\Desktop\Coding\C#\microsoft-foundation-certification\2-simple-console-applications\4-store-and-iterate-through-arrays\obj\Debug\net7.0\4-store-and-iterate-through-arrays.dll
+C:\Users\User\Desktop\Coding\C#\microsoft-foundation-certification\2-simple-console-applications\4-store-and-iterate-through-arrays\obj\Debug\net7.0\refint\4-store-and-iterate-through-arrays.dll
+C:\Users\User\Desktop\Coding\C#\microsoft-foundation-certification\2-simple-console-applications\4-store-and-iterate-through-arrays\obj\Debug\net7.0\4-store-and-iterate-through-arrays.pdb
+C:\Users\User\Desktop\Coding\C#\microsoft-foundation-certification\2-simple-console-applications\4-store-and-iterate-through-arrays\obj\Debug\net7.0\4-store-and-iterate-through-arrays.genruntimeconfig.cache
+C:\Users\User\Desktop\Coding\C#\microsoft-foundation-certification\2-simple-console-applications\4-store-and-iterate-through-arrays\obj\Debug\net7.0\ref\4-store-and-iterate-through-arrays.dll
