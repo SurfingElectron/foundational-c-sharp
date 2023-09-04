@@ -7,9 +7,17 @@ This is a repo to store my progress through Microsoft's foundational C# certific
 - Use data in your applications by creating literal values and variable values of different data types. 
 - Combine literal and variable text data that contain special characters, formatting, and Unicode into meaningful messages for the end user. 
 - Learn the operators and techniques used to perform basic math operations on numeric data.
-- Projects: Learn to develop an application that will calculate and display results based on given data. Gain experience developing an application that will calculate and display results based on given data.
+- Guided projects: Learn to develop an application that will calculate and display results based on given data. Gain experience developing an application that will calculate and display results based on given data.
 
 ### Part 2: Create and run simple C# console applications
+- Use functionality in the .NET Class Library by calling methods that return values, accept input parameters, and more.
+- Learn to branch your code's execution path by evaluating Boolean expressions.
+- Work with sequences of related data in data structures known as arrays. Then, learn to iterate through each item in the sequence.
+- Write code that is easier to read, update and support using naming conventions, comments and whitespace.
+- Guided project: Gain experience developing a console app that implements arrays, foreach loops, and if statements to achieve app specifications.
+- Challenge project: Demonstrate your ability to update a console app that implements arrays, foreach loops, and if statements in response to a user requested feature update.
+
+
 ### Part 3: Add logic to C# console applications
 ### Part 4: Work with variable data in C# console applications
 ### Part 5: Create methods in C# console applications

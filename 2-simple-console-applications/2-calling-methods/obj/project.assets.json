@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\User\\Desktop\\Coding\\C#\\microsoft-certification\\2-simple-console-applications\\TestProject\\TestProject.csproj",
+      "projectUniqueName": "c:\\Users\\User\\Desktop\\Coding\\C#\\microsoft-foundation-certification\\2-simple-console-applications\\2-calling-methods\\TestProject.csproj",
       "projectName": "TestProject",
-      "projectPath": "c:\\Users\\User\\Desktop\\Coding\\C#\\microsoft-certification\\2-simple-console-applications\\TestProject\\TestProject.csproj",
+      "projectPath": "c:\\Users\\User\\Desktop\\Coding\\C#\\microsoft-foundation-certification\\2-simple-console-applications\\2-calling-methods\\TestProject.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\User\\Desktop\\Coding\\C#\\microsoft-certification\\2-simple-console-applications\\TestProject\\obj\\",
+      "outputPath": "c:\\Users\\User\\Desktop\\Coding\\C#\\microsoft-foundation-certification\\2-simple-console-applications\\2-calling-methods\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"

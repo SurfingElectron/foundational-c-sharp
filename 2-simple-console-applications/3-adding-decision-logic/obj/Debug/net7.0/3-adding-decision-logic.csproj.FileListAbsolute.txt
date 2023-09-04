@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Coding\C#\microsoft-foundation-certification\2-simple-console-applications\3-adding-decision-logic\bin\Debug\net7.0\3-adding-decision-logic.exe
+C:\Users\User\Desktop\Coding\C#\microsoft-foundation-certification\2-simple-console-applications\3-adding-decision-logic\bin\Debug\net7.0\3-adding-decision-logic.deps.json
+C:\Users\User\Desktop\Coding\C#\microsoft-foundation-certification\2-simple-console-applications\3-adding-decision-logic\bin\Debug\net7.0\3-adding-decision-logic.runtimeconfig.json
+C:\Users\User\Desktop\Coding\C#\microsoft-foundation-certification\2-simple-console-applications\3-adding-decision-logic\bin\Debug\net7.0\3-adding-decision-logic.dll
+C:\Users\User\Desktop\Coding\C#\microsoft-foundation-certification\2-simple-console-applications\3-adding-decision-logic\bin\Debug\net7.0\3-adding-decision-logic.pdb
+C:\Users\User\Desktop\Coding\C#\microsoft-foundation-certification\2-simple-console-applications\3-adding-decision-logic\obj\Debug\net7.0\3-adding-decision-logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Coding\C#\microsoft-foundation-certification\2-simple-console-applications\3-adding-decision-logic\obj\Debug\net7.0\3-adding-decision-logic.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Coding\C#\microsoft-foundation-certification\2-simple-console-applications\3-adding-decision-logic\obj\Debug\net7.0\3-adding-decision-logic.AssemblyInfo.cs
+C:\Users\User\Desktop\Coding\C#\microsoft-foundation-certification\2-simple-console-applications\3-adding-decision-logic\obj\Debug\net7.0\3-adding-decision-logic.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Coding\C#\microsoft-foundation-certification\2-simple-console-applications\3-adding-decision-logic\obj\Debug\net7.0\3-adding-decision-logic.dll
+C:\Users\User\Desktop\Coding\C#\microsoft-foundation-certification\2-simple-console-applications\3-adding-decision-logic\obj\Debug\net7.0\refint\3-adding-decision-logic.dll
+C:\Users\User\Desktop\Coding\C#\microsoft-foundation-certification\2-simple-console-applications\3-adding-decision-logic\obj\Debug\net7.0\3-adding-decision-logic.pdb
+C:\Users\User\Desktop\Coding\C#\microsoft-foundation-certification\2-simple-console-applications\3-adding-decision-logic\obj\Debug\net7.0\3-adding-decision-logic.genruntimeconfig.cache
+C:\Users\User\Desktop\Coding\C#\microsoft-foundation-certification\2-simple-console-applications\3-adding-decision-logic\obj\Debug\net7.0\ref\3-adding-decision-logic.dll

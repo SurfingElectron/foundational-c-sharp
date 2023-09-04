@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Desktop\\Coding\\C#\\microsoft-certification\\2-simple-console-applications\\TestProject\\TestProject.csproj": {}
+    "C:\\Users\\User\\Desktop\\Coding\\C#\\microsoft-foundation-certification\\2-simple-console-applications\\3-adding-decision-logic\\3-adding-decision-logic.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Desktop\\Coding\\C#\\microsoft-certification\\2-simple-console-applications\\TestProject\\TestProject.csproj": {
+    "C:\\Users\\User\\Desktop\\Coding\\C#\\microsoft-foundation-certification\\2-simple-console-applications\\3-adding-decision-logic\\3-adding-decision-logic.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Desktop\\Coding\\C#\\microsoft-certification\\2-simple-console-applications\\TestProject\\TestProject.csproj",
-        "projectName": "TestProject",
-        "projectPath": "C:\\Users\\User\\Desktop\\Coding\\C#\\microsoft-certification\\2-simple-console-applications\\TestProject\\TestProject.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\Coding\\C#\\microsoft-foundation-certification\\2-simple-console-applications\\3-adding-decision-logic\\3-adding-decision-logic.csproj",
+        "projectName": "3-adding-decision-logic",
+        "projectPath": "C:\\Users\\User\\Desktop\\Coding\\C#\\microsoft-foundation-certification\\2-simple-console-applications\\3-adding-decision-logic\\3-adding-decision-logic.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Desktop\\Coding\\C#\\microsoft-certification\\2-simple-console-applications\\TestProject\\obj\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\Coding\\C#\\microsoft-foundation-certification\\2-simple-console-applications\\3-adding-decision-logic\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
