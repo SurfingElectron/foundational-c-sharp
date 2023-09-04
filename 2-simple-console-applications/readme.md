@@ -20,4 +20,11 @@ My goal in this module was to work with a sequence of Order IDs programmatically
 
 Arrays enabled me to store each Order ID as an element of a single variable. I addressed a specific element of the array using an index -- a zero-based numeric value. I were able to retrieve and set the value of each element. I iterated through the elements of the array to inspect or output each element's value.
 
-### Create readable code with conventions, whitespace, and comments in C#
+### Guided project - Develop foreach and if-elseif-else structures to process array data in C#
+My goal was to build an application that uses a combination of iteration and selection statements to process the contents of arrays and achieve the design goals of my application.
+
+By creating a nested combination of foreach and if statements, I built an application that processes the contents of student name and assignment score arrays to calculate and report student grades. The application logic supports adding additional students and assignment scores with minimal code updates.
+
+Having the ability to implement nested iteration statements that process array data, and selection statements that branch the code execution path, enables me to create more efficient and extensible code.
+
+### Challenge project - Develop foreach and if-elseif-else structures to process array data in C# 
