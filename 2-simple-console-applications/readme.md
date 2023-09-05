@@ -27,4 +27,7 @@ By creating a nested combination of foreach and if statements, I built an applic
 
 Having the ability to implement nested iteration statements that process array data, and selection statements that branch the code execution path, enables me to create more efficient and extensible code.
 
-### Challenge project - Develop foreach and if-elseif-else structures to process array data in C# 
+### Challenge project - Develop foreach and if-elseif-else structures to process array data in C#
+My challenge was to update an application with new features based on user feedback.
+
+By implementing the teacher's requested updates in a way that preserved the integrity of the original application, I was able to satisfy the user request in the best possible way.
