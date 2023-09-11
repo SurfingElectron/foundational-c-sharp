@@ -50,3 +50,20 @@ When the current value is divisible by 3, print the term Fizz next to the number
 When the current value is divisible by 5, print the term Buzz next to the number.
 When the current value is divisible by both 3 and 5, print the term FizzBuzz next to the number.
 */
+
+for (int i = 1; i <= 100; i++)
+{
+    string result = "";
+
+    if (i % 3 == 0)
+        result = result + "Fizz";
+    if (i % 5 == 0)
+        result = result + "Buzz";
+
+    if (result.Length > 1)
+        result = $"{i} - " + result;
+    else 
+        result = $"{i}";
+
+    Console.WriteLine(result);
+}
