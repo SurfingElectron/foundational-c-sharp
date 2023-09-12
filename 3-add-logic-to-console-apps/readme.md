@@ -11,8 +11,13 @@ I explored the impact of declaring variables inside and outside the boundaries o
 ### Branch the flow of code using the switch-case construct in C#
 My goal was to add branching logic that matches one variable or expression against many possible values.
 
-Using the switch-case construct, I matched an employee's numeric level with their title. I used the switch-case as a replacement for the if-elseif-else construct to more succinctly express my intent of converting a Stock Keeping Unit (SKU) into a long-form description.
+Using the switch-case construct, I matched an employee's numeric level with their title. I used the switch-case as a replacement for the *if-elseif-else* construct to more succinctly express my intent of converting a Stock Keeping Unit (SKU) into a long-form description.
 
 C# developers use if and switch selection statements, along with conditional operators, to branch their code. The experience I've gained using selection statements enables me to choose the best C# tool for expressing your intent in my code.
 
-### Iterate through a code block using for statement in C#
+### Iterate through a code block using *for* statement in C#
+My goal was to gain additional control over the iteration process by implementing the *for* statement in my code. Modifying the initializer, condition, and iterator of a *for* statement provides precise control over the iteration logic.
+
+Using the *for* statement, I iterated a hard-coded number of times, and used the Length on an array to iterate through the code block once for each item in the array. I modified the iterator, the condition for exiting the loop, and the pattern for iteration. I used the break keyword to exit out of the loop's body prematurely. Without the iteration control provided by the *for* statement, I wouldn't be able to complete certain coding tasks, such as looping through the data in a multidimensional array.
+
+### Add looping logic to your code using the *do-while* and *while* statements in C#
