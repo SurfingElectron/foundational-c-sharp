@@ -1,7 +1,6 @@
 ﻿// ADD LOOPING LOGIC TO YOUR CODE USING THE *DO-WHILE* AND *WHILE* STATEMENTS IN C#
 
 //  EXERCISE: CREATE DO AND WHILE ITERATION LOOPS
-/*
 Random random = new Random();
 int current = random.Next(1, 11);
 
@@ -28,7 +27,7 @@ do
     Console.WriteLine(current);
 } while (current !=7);
 
-*/
+
 
 // EXERCISE: COMPLETE A CHALLENGE ACTIVITY USING DO AND WHILE ITERATION STATEMENTS
 /*
@@ -40,12 +39,7 @@ do
 - Print the amount of health the hero lost and their remaining health.
 - Continue this sequence of attacking until either the monster's health or hero's health is zero or less.
 - Print the winner.
-
-OUTPUT FORM
-Monster was damaged and lost 1 health and now has 9 health.
-Hero was damaged and lost 1 health and now has 9 health.
-Hero wins! || Monster wins!
-
+*/
 
 int heroHealth = 10;
 int monsterHealth = 10;
@@ -65,10 +59,9 @@ do
 
 } while (heroHealth > 0 && monsterHealth > 0);
 Console.WriteLine(monsterHealth > heroHealth ? "Monster wins!" : "Hero wins!");
-*/
+
 // EXERCISE: COMPLETE A CHALLENGE ACTIVITY TO DIFFERENTIATE BETWEEN DO AND WHILE ITERATION STATEMENTS
 // TASK ONE
-/*
 string? readResult;
 string enteredValue;
 int numberValue = 0;
@@ -98,7 +91,6 @@ Console.WriteLine($"Your input value ({numberValue}) has been accepted");
 
 
 // TASK TWO 
-
 string? readResult;
 string roleEntered = "";
 bool validRole = false;
@@ -121,7 +113,7 @@ do
 } while (!validRole);
 
 Console.WriteLine($"Your input value ({roleEntered}) has been accepted");
-*/
+
 
 // TASK THREE
 string[] myStrings = new string[2] { "I like pizza. I like roast chicken. I like salad", "I like all three of the menu choices" };
