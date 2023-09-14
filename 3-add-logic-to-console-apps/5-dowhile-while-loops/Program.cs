@@ -127,11 +127,23 @@ Console.WriteLine($"Your input value ({roleEntered}) has been accepted");
 string[] myStrings = new string[2] { "I like pizza. I like roast chicken. I like salad", "I like all three of the menu choices" };
 
 int periodLocation;
+string myString;
 
-foreach (string myString in myStrings)
-{
-    while (myString.IndexOf(".") != -1)
-    {
-        
-    }
+for (int i = 0; i < myStrings.Length; i++)
+{    
+    myString = myStrings[i];
+    periodLocation =  myString.IndexOf(".");
+    string workingSentence;
+  
+        while (periodLocation != -1)
+        {
+            workingSentence = myString.Remove(periodLocation);
+
+            myString = myString.Substring(periodLocation + 1).TrimStart();
+
+            periodLocation = myString.IndexOf(".");
+
+            Console.WriteLine(workingSentence);
+        }
+    Console.WriteLine(myString);
 }
