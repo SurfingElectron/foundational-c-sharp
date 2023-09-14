@@ -21,3 +21,10 @@ My goal was to gain additional control over the iteration process by implementin
 Using the *for* statement, I iterated a hard-coded number of times, and used the Length on an array to iterate through the code block once for each item in the array. I modified the iterator, the condition for exiting the loop, and the pattern for iteration. I used the break keyword to exit out of the loop's body prematurely. Without the iteration control provided by the *for* statement, I wouldn't be able to complete certain coding tasks, such as looping through the data in a multidimensional array.
 
 ### Add looping logic to your code using the *do-while* and *while* statements in C#
+My goal was to use the *do-while* and *while* statements to perform iterations. The *do-while* and *while* statements are unique because the body of the code block determines whether the flow of execution should continue or stop.
+
+Using the *do-while* statement, you executed a block of code once before evaluating a Boolean expression and potentially exiting the iteration. Using the *while* statement, you performed the evaluation of the Boolean expression immediately, and continued to evaluate it to exit the iteration. You used the continue statement within the code block to step directly to the Boolean expression.
+
+I developed a practical application that uses the *do-while* and continue statements to simulate a battle in a role playing game. Real-world scenarios involving the *do-while* and while iteration statements involve working with streams of data from files, from the internet, or any other scenario where you'll continue to perform an iteration until a condition is met.
+
+### Guided project: Develop conditional branching and looping structures in C#
